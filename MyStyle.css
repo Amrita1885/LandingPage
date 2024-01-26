@@ -1,0 +1,19 @@
+body{
+}
+.primary-background {
+    
+    background:#4F6F52!important; 
+   
+}
+
+.secondary-background {
+    background:#99BC85!important;
+    text-align: center;
+    padding: 10%;
+}
+.secondary-background .container h3{
+    margin-bottom: 2%;
+}
+.secondary-background .container p{
+   margin-top: 2%;
+}
